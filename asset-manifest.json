@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-org-chart/static/css/main.12d32554.css",
+    "main.js": "/react-org-chart/static/js/main.e7b39ee4.js",
+    "static/media/avatar-personnel.svg": "/react-org-chart/static/media/avatar-personnel.edb459055672d72fbc3f0b00e039331c.svg",
+    "index.html": "/react-org-chart/index.html",
+    "main.12d32554.css.map": "/react-org-chart/static/css/main.12d32554.css.map",
+    "main.e7b39ee4.js.map": "/react-org-chart/static/js/main.e7b39ee4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d32554.css",
+    "static/js/main.e7b39ee4.js"
+  ]
+}
