@@ -1,0 +1,902 @@
+[
+    {
+      "name": "John",
+      "department": "CDN",
+      "salary": 80,
+      "office": "Lisbon",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Jill",
+      "department": "Developer Platform",
+      "salary": 100,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Audrey Leblanc",
+      "department": "Accounting",
+      "salary": 154,
+      "office": "Singapore",
+      "isManager": "TRUE",
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Braden McMahon",
+      "department": "Bots",
+      "salary": 219,
+      "office": "San Francisco",
+      "isManager": "TRUE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Belen Norman",
+      "department": "Developer Platform",
+      "salary": 252,
+      "office": "London",
+      "isManager": "TRUE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Aziel Gibson",
+      "department": "CDN",
+      "salary": 145,
+      "office": "New York",
+      "isManager": "TRUE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Eden Roy",
+      "department": "Accounting",
+      "salary": 190,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Marcelo Sullivan",
+      "department": "Bots",
+      "salary": 241,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Melanie Esparza",
+      "department": "Developer Platform",
+      "salary": 231,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Carl Nava",
+      "department": "CDN",
+      "salary": 230,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Scout Hansen",
+      "department": "Accounting",
+      "salary": 259,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Charlie West",
+      "department": "Bots",
+      "salary": 131,
+      "office": "Lisbon",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Remi Hendrix",
+      "department": "Developer Platform",
+      "salary": 162,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Korbyn Cuevas",
+      "department": "CDN",
+      "salary": 86,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Adele Castillo",
+      "department": "Accounting",
+      "salary": 237,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Kai Rojas",
+      "department": "Bots",
+      "salary": 102,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Adaline Murphy",
+      "department": "Developer Platform",
+      "salary": 238,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Cameron Doyle",
+      "department": "CDN",
+      "salary": 81,
+      "office": "Lisbon",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Annalise Fuller",
+      "department": "Accounting",
+      "salary": 172,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Andre Spears",
+      "department": "Bots",
+      "salary": 106,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Isabela Casey",
+      "department": "Developer Platform",
+      "salary": 283,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Armando Trujillo",
+      "department": "CDN",
+      "salary": 178,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "CSS",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Danielle Adkins",
+      "department": "Accounting",
+      "salary": 89,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Kylo Hayes",
+      "department": "Bots",
+      "salary": 213,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Performance",
+      "skill3": "AI"
+    },
+    {
+      "name": "Iris Frye",
+      "department": "Developer Platform",
+      "salary": 212,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Franco Short",
+      "department": "CDN",
+      "salary": 82,
+      "office": "Lisbon",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "CSS",
+      "skill3": "AI"
+    },
+    {
+      "name": "Cheyenne Fowler",
+      "department": "Accounting",
+      "salary": 150,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Kameron Colon",
+      "department": "Bots",
+      "salary": 149,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Remy Wang",
+      "department": "Developer Platform",
+      "salary": 94,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Cohen Dougherty",
+      "department": "CDN",
+      "salary": 157,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Alisson Russell",
+      "department": "Accounting",
+      "salary": 214,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Weston McIntosh",
+      "department": "Bots",
+      "salary": 130,
+      "office": "Lisbon",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Gwen Gutierrez",
+      "department": "Developer Platform",
+      "salary": 259,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "C++",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Luca Acosta",
+      "department": "CDN",
+      "salary": 175,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "CSS",
+      "skill3": "AI"
+    },
+    {
+      "name": "Kaia Wyatt",
+      "department": "Accounting",
+      "salary": 112,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Sam Hubbard",
+      "department": "Bots",
+      "salary": 87,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "Performance",
+      "skill3": "AI"
+    },
+    {
+      "name": "Rosie Hull",
+      "department": "Developer Platform",
+      "salary": 227,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Salem Foley",
+      "department": "CDN",
+      "salary": 290,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Zaylee Blair",
+      "department": "Accounting",
+      "salary": 136,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Troy Bartlett",
+      "department": "Bots",
+      "salary": 103,
+      "office": "Lisbon",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Aubrielle Collier",
+      "department": "Developer Platform",
+      "salary": 225,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Edison Hamilton",
+      "department": "CDN",
+      "salary": 267,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Mackenzie Gill",
+      "department": "Accounting",
+      "salary": 101,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "Rust",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Matthias Greene",
+      "department": "Bots",
+      "salary": 288,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Performance",
+      "skill3": "AI"
+    },
+    {
+      "name": "Selena Hutchinson",
+      "department": "Developer Platform",
+      "salary": 263,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Korbin Francis",
+      "department": "CDN",
+      "salary": 108,
+      "office": "Lisbon",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Daniella Noble",
+      "department": "Accounting",
+      "salary": 289,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Idris Kent",
+      "department": "Bots",
+      "salary": 297,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Jazmine Holt",
+      "department": "Developer Platform",
+      "salary": 139,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Niko Molina",
+      "department": "CDN",
+      "salary": 229,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Alexandria Booth",
+      "department": "Accounting",
+      "salary": 156,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Chaim Cisneros",
+      "department": "Bots",
+      "salary": 80,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Janelle Hall",
+      "department": "Developer Platform",
+      "salary": 158,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Thomas Nixon",
+      "department": "CDN",
+      "salary": 201,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Deborah Taylor",
+      "department": "Accounting",
+      "salary": 186,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Jackson Parsons",
+      "department": "Bots",
+      "salary": 150,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "AI"
+    },
+    {
+      "name": "Maia Blackburn",
+      "department": "Developer Platform",
+      "salary": 294,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Zahir Hartman",
+      "department": "CDN",
+      "salary": 106,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Kennedi Palacios",
+      "department": "Accounting",
+      "salary": 300,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "Performance",
+      "skill3": "AI"
+    },
+    {
+      "name": "Thaddeus Dillon",
+      "department": "Bots",
+      "salary": 172,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Laurel Moore",
+      "department": "Developer Platform",
+      "salary": 194,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Levi Rivers",
+      "department": "CDN",
+      "salary": 141,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Kiana Ray",
+      "department": "Accounting",
+      "salary": 104,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "C++",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Arlo Person",
+      "department": "Bots",
+      "salary": 203,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Dylan Evans",
+      "department": "Developer Platform",
+      "salary": 90,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Elias Quintero",
+      "department": "CDN",
+      "salary": 215,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Keyla Hurst",
+      "department": "Accounting",
+      "salary": 137,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Neil Carroll",
+      "department": "Bots",
+      "salary": 188,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Performance",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Zara Bradford",
+      "department": "Developer Platform",
+      "salary": 163,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Ander Quintero",
+      "department": "CDN",
+      "salary": 226,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Keyla Bravo",
+      "department": "Accounting",
+      "salary": 242,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Performance",
+      "skill3": "AI"
+    },
+    {
+      "name": "Genesis Felix",
+      "department": "Bots",
+      "salary": 187,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Paisleigh Sherman",
+      "department": "Developer Platform",
+      "salary": 118,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Adan Sanford",
+      "department": "CDN",
+      "salary": 280,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Performance",
+      "skill3": "AI"
+    },
+    {
+      "name": "Emerald Macdonald",
+      "department": "Accounting",
+      "salary": 228,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Hugh Bowman",
+      "department": "Bots",
+      "salary": 139,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Fiona Robinson",
+      "department": "Developer Platform",
+      "salary": 300,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Matthew Christensen",
+      "department": "CDN",
+      "salary": 204,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "C++",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Carmen McLaughlin",
+      "department": "Accounting",
+      "salary": 221,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Ibrahim Gould",
+      "department": "Bots",
+      "salary": 262,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Violeta Cortes",
+      "department": "Developer Platform",
+      "salary": 98,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Banks Fitzpatrick",
+      "department": "CDN",
+      "salary": 250,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Annabella Velasquez",
+      "department": "Accounting",
+      "salary": 172,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Sullivan Nunez",
+      "department": "Bots",
+      "salary": 165,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "C++",
+      "skill3": "AI"
+    },
+    {
+      "name": "Mya Hardy",
+      "department": "Developer Platform",
+      "salary": 127,
+      "office": "New York",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Rust",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Jayceon Murillo",
+      "department": "CDN",
+      "salary": 128,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Performance",
+      "skill3": "AI"
+    },
+    {
+      "name": "Mikaela Hampton",
+      "department": "Accounting",
+      "salary": 89,
+      "office": "Austin",
+      "isManager": "FALSE",
+      "skill1": "Caching",
+      "skill2": "C++",
+      "skill3": "GoLang"
+    },
+    {
+      "name": "Hank Sandoval",
+      "department": "Bots",
+      "salary": 165,
+      "office": "Singapore",
+      "isManager": "FALSE",
+      "skill1": "Typescript",
+      "skill2": "Rust",
+      "skill3": "Postgres"
+    },
+    {
+      "name": "Elsie McCarthy",
+      "department": "Developer Platform",
+      "salary": 128,
+      "office": "San Francisco",
+      "isManager": "FALSE",
+      "skill1": "HTML",
+      "skill2": "Rust",
+      "skill3": "AI"
+    },
+    {
+      "name": "Devin Weber",
+      "department": "CDN",
+      "salary": 285,
+      "office": "London",
+      "isManager": "FALSE",
+      "skill1": "Distributed Systems",
+      "skill2": "Performance",
+      "skill3": "GoLang"
+    }
+  ]

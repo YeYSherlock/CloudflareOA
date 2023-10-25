@@ -1,0 +1,8 @@
+name = "app_name"
+main = "src/index.js"
+compatibility_date = "2023-10-10"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "fe02745f36e843cd9d479aeb1b1105d7"
+preview_id = "982e1321a7cc4c69af4da0ba9e5ea3a3"
